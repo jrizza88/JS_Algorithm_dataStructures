@@ -1,0 +1,1 @@
+console.log('HELLO from the JS Algorithms course via snippet!')
